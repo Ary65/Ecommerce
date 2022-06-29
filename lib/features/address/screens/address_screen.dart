@@ -206,12 +206,12 @@ class _AddressScreenState extends State<AddressScreen> {
                   child: CircularProgressIndicator(),
                 ),
               ),
-              CustomButton(
-                text: 'Pay',
-                onTap: () => payPressed(address),
-                onPaymentResult: onGooglePayResult,
-                paymentItems: paymentItems,
-              )
+              // CustomButton(
+              //   text: 'Pay',
+              //   onTap: () => payPressed(address),
+              //   onPaymentResult: onGooglePayResult,
+              //   paymentItems: paymentItems,
+              // )
             ],
           ),
         ),
