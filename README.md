@@ -1,16 +1,3 @@
-# ecommerce
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Fullstack Amazon Clone
+## With Admin Section
+![AMAZON](https://user-images.githubusercontent.com/87580734/213978786-0158b9bf-96c6-427b-9106-904de83c8182.png)
